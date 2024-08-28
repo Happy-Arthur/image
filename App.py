@@ -12,7 +12,7 @@ def load_model():
 model = load_model()
 
 # Class labels (replace with actual student names)
-class_labels = ['Arthur', 'Ray', 'Tep']
+class_labels = ['Alton', 'Andrew', 'Bella','Bosen','Cia-Cia' ]
 
 # Preprocessing function
 def preprocess_input(img):
